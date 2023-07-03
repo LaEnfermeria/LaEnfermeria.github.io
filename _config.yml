@@ -1,11 +1,11 @@
 # Site settings
-title: Mi Enfermerita
+title: La Enfermería
 email: profrgerhard@gmail.com
-url: https://mienfermerita.github.io/
+url: https://laenfermeria.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Pediatría - Geriatría - Salud y Bienestar Personal"
-meta_author: Mi Enfermerita
+meta_author: La Enfermería
 
 # Google webmaster tools
 google_verify:
